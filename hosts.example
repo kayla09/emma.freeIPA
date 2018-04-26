@@ -1,7 +1,4 @@
-[servers]
-ipa0.example.com
-ipa1.example.com
+[ipa-server]
 
-[clients]
-client0.example.com
-client1.example.com
+[ipa-client]
+
